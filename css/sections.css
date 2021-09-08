@@ -1,0 +1,29 @@
+.Section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+}
+.para{
+    padding: 0px 65px 0px 0px ;
+}
+.image{
+    width: 28vw;
+    border-radius: 20px;
+}
+.sectionSubTAg{    
+    margin: 10px 0px;
+}
+.downheading{
+    font-size: 22px;
+    font-family:  Tahoma, Geneva, sans-serif;
+    color: rgb(69, 69, 165);
+}
+.left{
+    flex-direction: row-reverse;
+}
+.left .para{
+    padding: 0px 0px 0px 65px;
+}

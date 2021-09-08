@@ -1,0 +1,21 @@
+.contact{
+    background-color: #f6f5f4;
+    height: 50vh;
+
+}
+.text-centre{
+    text-align: center;
+}
+.form{
+    max-width: 500px;
+    margin: 42px auto;
+    
+}
+.form input{
+    width: 100%;
+    border: 2px solid gray;
+    border-radius: 8px;
+    font-size: 18px;
+    margin: 15px 0px;
+    padding: 10px ;
+}
